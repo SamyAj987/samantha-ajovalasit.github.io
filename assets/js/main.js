@@ -57,7 +57,7 @@ const dict = {
     skillsProg: "Programming",
     skillsML: "Data / ML",
     skillsTools: "Tools",
-    pubTitle: "Selected publications",
+    pubTitle: "Publications",
     pubNote: "Full list available in the PDF below.",
     pubPdfBtn: "Open publications PDF",
     cvTitle: "CV"
@@ -117,7 +117,7 @@ const dict = {
     skillsProg: "Programmazione",
     skillsML: "Dati / ML",
     skillsTools: "Strumenti",
-    pubTitle: "Pubblicazioni selezionate",
+    pubTitle: "Pubblicazioni",
     pubNote: "Lista completa disponibile nel PDF qui sotto.",
     pubPdfBtn: "Apri PDF pubblicazioni",
     cvTitle: "CV"
